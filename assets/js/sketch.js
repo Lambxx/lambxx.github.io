@@ -22,13 +22,13 @@ yvalues = new Array(floor(w / xspacing));
 
 function draw() {
  
-  background(255);
+  background(255,255,255,0);
   calcWave();
-  renderWave(230, 9, 116,255);
+  renderWave(230, 9, 116,5);
   NcalcWave();
-  renderWave(240,7,7,100);
+  renderWave(240,7,7,5);
   cosWave();
-  renderWave(220,9,10,75);
+  renderWave(220,9,10,5);
 }
 
 function calcWave() {

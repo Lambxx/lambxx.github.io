@@ -35,7 +35,7 @@ canvas {
 --------------------------------------------------------------*/
 body {
   font-family: "Verdana", sans-serif;
-  color: #272829;
+  color: #d589b8;
 }
 
 a {
@@ -291,7 +291,7 @@ section {
 
 .resume .resume-item h5 {
   font-size: 16px;
-  background: #f7f8f9;
+  background: #16191c;
   padding: 5px 15px;
   display: inline-block;
   font-weight: 600;
