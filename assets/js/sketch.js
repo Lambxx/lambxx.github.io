@@ -84,8 +84,6 @@ function renderWave(ra,rb,rc,rd) {
 }
 
 function windowResized() {
-var width = canvasDiv.offsetWidth;
-var height = canvasDiv.offsetHeight;
-resizeCanvas(width, 200);
+setup();
 }
 
